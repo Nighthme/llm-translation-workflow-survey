@@ -1,6 +1,6 @@
 # Citation, Reference, DOI, and Journal-Format Audit
 
-Manuscript: *From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey*  
+Manuscript: *From Neural Machine Translation to LLM-Augmented Translation Workflows: A Workflow-Oriented Scoping Survey*  
 Target journal: *Natural Language Processing*  
 Audit date: 2026-06-11
 

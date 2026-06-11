@@ -1,8 +1,8 @@
-# From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey
+# From Neural Machine Translation to LLM-Augmented Translation Workflows: A Workflow-Oriented Scoping Survey
 
 This repository contains the release package for the scoping survey:
 
-**From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey**
+**From Neural Machine Translation to LLM-Augmented Translation Workflows: A Workflow-Oriented Scoping Survey**
 
 The materials document the literature search, screening, metadata cleanup, evidence mapping, extraction decisions, citation audit, and manuscript-preparation records used to prepare the manuscript.
 
@@ -65,13 +65,7 @@ The final working counts used in the manuscript are documented in `documentation
 
 ## Current Verification Status
 
-The latest citation and format audit is documented in `documentation/citation_format_audit.md`. Two formerly high-risk records were verified through official pages during the 2026-06-11 follow-up: Chen (2025) through *Frontiers in Psychology* and Grubisic and Korencic (2025) through ACL Anthology.
-
-Three records remain metadata-pending until official publisher or DOI metadata is supplied or the records are replaced:
-
-- Huang et al. (2025)
-- Mau et al. (2026)
-- Yao et al. (2026)
+The latest citation and format audit is documented in `documentation/citation_format_audit.md`. Formerly high-risk records were verified through official publisher, Crossref, or ACL metadata during the 2026-06-11 follow-up: Chen (2025), Grubisic and Korencic (2025), Huang et al. (2025), Mau et al. (2026), and Yao et al. (2026).
 
 The manuscript source in `manuscript/manuscript_nlp_cambridge_expanded.tex` uses surname-initials author-date references. A compiled working PDF is included for review convenience as `manuscript/manuscript_nlp_cambridge_expanded_revised.pdf`.
 
@@ -83,7 +77,7 @@ https://doi.org/10.5281/zenodo.20645622
 
 Suggested citation:
 
-Wang, Xiongfei. 2026. *From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey*. Dataset and documentation release.
+Wang, Xiongfei. 2026. *From Neural Machine Translation to LLM-Augmented Translation Workflows: A Workflow-Oriented Scoping Survey*. Dataset and documentation release.
 
 ## License
 

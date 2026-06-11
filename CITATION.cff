@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset and documentation, please cite it using the metadata below."
-title: "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey"
+title: "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Workflow-Oriented Scoping Survey"
 type: dataset
 authors:
   - family-names: Wang
@@ -21,7 +21,7 @@ doi: "10.5281/zenodo.20645622"
 repository-code: "https://github.com/Nighthme/llm-translation-workflow-survey"
 preferred-citation:
   type: article
-  title: "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey"
+  title: "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Workflow-Oriented Scoping Survey"
   authors:
     - family-names: Wang
       given-names: Xiongfei
