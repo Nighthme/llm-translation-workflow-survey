@@ -17,6 +17,7 @@ keywords:
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2026-06-09
+doi: "10.5281/zenodo.20645622"
 repository-code: "https://github.com/Nighthme/llm-translation-workflow-survey"
 preferred-citation:
   type: article
