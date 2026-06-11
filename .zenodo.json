@@ -1,0 +1,25 @@
+{
+  "title": "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey",
+  "upload_type": "dataset",
+  "description": "Search, screening, extraction, metadata-cleanup, and evidence-mapping documentation for a scoping survey of neural machine translation, Transformer-based machine translation, large language models, and LLM-augmented translation workflows.",
+  "creators": [
+    {
+      "name": "Wang, Xiongfei",
+      "orcid": "0009-0005-9560-6420",
+      "affiliation": "Faculty of English Language and Culture, Guangdong University of Foreign Studies, Guangzhou, China"
+    }
+  ],
+  "keywords": [
+    "machine translation",
+    "neural machine translation",
+    "large language models",
+    "translation workflows",
+    "post-editing",
+    "translation quality evaluation",
+    "scoping survey"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "language": "eng",
+  "access_right": "open"
+}

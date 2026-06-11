@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset and documentation, please cite it using the metadata below."
+title: "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey"
+type: dataset
+authors:
+  - family-names: Wang
+    given-names: Xiongfei
+    orcid: "https://orcid.org/0009-0005-9560-6420"
+abstract: "Release package containing search, screening, extraction, metadata-cleanup, and evidence-mapping documentation for a scoping survey of NMT, Transformer-based machine translation, large language models, and LLM-augmented translation workflows."
+keywords:
+  - machine translation
+  - neural machine translation
+  - large language models
+  - post-editing
+  - translation quality evaluation
+  - scoping review
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-06-09
+repository-code: "https://github.com/Nighthme/llm-translation-workflow-survey"
+preferred-citation:
+  type: article
+  title: "From Neural Machine Translation to LLM-Augmented Translation Workflows: A Scoping Survey"
+  authors:
+    - family-names: Wang
+      given-names: Xiongfei
+      orcid: "https://orcid.org/0009-0005-9560-6420"
+  year: 2026
+  journal: "Natural Language Processing"
